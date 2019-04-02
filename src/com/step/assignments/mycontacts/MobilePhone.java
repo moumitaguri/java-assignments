@@ -1,4 +1,4 @@
-package com.step.assignments;
+package com.step.assignments.mycontacts;
 
 import java.util.ArrayList;
 
